@@ -1,0 +1,95 @@
+Invoice
+
+INVOICE NUMBER:
+
+00001
+
+BILLED TO
+
+Ahmed Alarian
+99 Cable Dr,
+Folsom,CA, USA
+95630
+
+Description
+
+ltem #1
+ltem #2
+ltem #3
+ltem #4
+ltem #5
+Item #6 
+ltem #7
+
+ltem #8
+
+TERMS
+
+DATE OF ISSUE:
+
+09/10/2021
+
+YOUR COMPANY NAME
+
+Building name 123 Your
+Street City/State, Country
+Zip Code
+
+Please pay invoice by MM/DD/YYYY
+
++ 1-541-754-3010
+you @email.co.uk
+yourwebsite.co.uk
+
+Unit cost
+
+$10.00
+$20.00
+$30.00
+$40.00
+$50.00
+$60.00
+$70.00
+
+$80.00
+
+QTY/HR Rate
+
+Subtotal
+
+Discount
+
+Tax rate
+
+Tax
+
+Send money abroad with TransferWise.
+
+YOUR LOGO
+
+Amount
+
+$10.00
+$40.00
+$90.00
+$160.00
+$250.00
+$360.00
+$490.00
+
+$720.00
+
+$2120.00
+
+$0.00
+
+15%
+
+$2538.00
+
+INVOICE TOTAL
+
+$2538.00
+
+7 Tra nsferWise
+
